@@ -1,0 +1,22 @@
+body {
+  background-color: #2B303A ;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+.body-container {
+  padding: 50px;
+  margin: 40px 100px 40px 100px;
+  border-style: solid;
+}
+
+#videoid {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
